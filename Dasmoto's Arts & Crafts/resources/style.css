@@ -12,7 +12,6 @@
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -20,7 +19,6 @@ h1 {
 }
 
 .hacksaw-price, .frame-price, .paint-price {
-  font-family: Helvetica;
   font-weight: bold;
   color: blue;
 }
